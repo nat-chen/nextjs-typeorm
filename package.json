@@ -14,7 +14,9 @@
     "next": "9.4.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "reflect-metadata": "^0.1.13",
     "sass": "^1.26.5",
+    "typeorm": "^0.2.34",
     "ua-parser-js": "^0.7.21"
   },
   "devDependencies": {
